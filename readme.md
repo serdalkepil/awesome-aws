@@ -42,7 +42,7 @@
 <br>
 
 <p align="center">
-	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://cloudist.tech">blog</a> and follow me on <a href="https://twitter.com/SerdalKepil">Twitter</a>.</sub>
 </p>
 <br>
 
